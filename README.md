@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2Ffreebarcodes.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2Ffreebarcodes?ref=badge_shield)
+
 ﻿# FreeBarcodes
 
 A package for the generation and decoding of FREE divergence error-correcting DNA barcodes, as described in the manuscript:
@@ -119,3 +121,7 @@ The second example, `example_8-2_barcodes_prefixes_TCTACTCTCCATACG_CACTTGGATC.fq
 ```
 freebarcodes decode ../barcodes/barcodes8-2.txt example_8-2_barcodes_prefixes_TCTACTCTCCATACG_CACTTGGATC.fq --prefixes=TCTACTCTCCATACG,CACTTGGATC --max-prefix-err=3,2
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2Ffreebarcodes.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2Ffreebarcodes?ref=badge_large)
